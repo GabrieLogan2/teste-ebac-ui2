@@ -1,5 +1,3 @@
-/// <reference types="cypress" />
-
 describe('Funcionalidade Página de produtos', () => {
 
     beforeEach(() => {

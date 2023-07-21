@@ -1,5 +1,3 @@
-/// <reference types="cypress"/>
-
 context('Funcionalidade Login', () => {
     http://lojaebac.ebaconline.art.br/
 
